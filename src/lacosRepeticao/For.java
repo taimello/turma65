@@ -24,7 +24,6 @@ public class For {
 		}
 	}else {
 		System.out.println("Intervalo Invalido");
-
 	}
 
 }
